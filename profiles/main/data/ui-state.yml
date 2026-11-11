@@ -68,15 +68,9 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   0\"},{\"when\":\"testing.isTestCoverageOpen\"}]},{\"id\":\"workbench.view.ext\
   ension.references-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"Ref\
   erences\",\"isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\
-  \"}]},{\"id\":\"workbench.view.extension.python\",\"iconUrl\":{\"$mid\":1,\"p\
-  ath\":\"%%EXTENSION_DATA_PATH%%/ms-python.vscode-python-envs-1.42.0-universal\
-  /files/logo.svg\",\"scheme\":\"file\"},\"name\":\"Python\",\"isBuiltin\":fals\
-  e,\"views\":[{\"when\":\"config.python.useEnvironmentsExtension &&
-  python-envs.workspaceHasPython\"},{\"when\":\"config.python.useEnvironmentsEx\
-  tension &&
-  python-envs.workspaceHasPython\"}]},{\"id\":\"workbench.view.voiceTranscripts\
-  Container\",\"themeIcon\":{\"id\":\"voice-transcripts-view-icon\"},\"name\":\
-  \"Voice
+  \"}]},{\"id\":\"workbench.view.extension.python\",\"name\":\"Python\",\"isBui\
+  ltin\":false},{\"id\":\"workbench.view.voiceTranscriptsContainer\",\"themeIcon\
+  \":{\"id\":\"voice-transcripts-view-icon\"},\"name\":\"Voice
   Transcripts\",\"isBuiltin\":true,\"views\":[{\"when\":\"voiceTranscripts.show\
   View\"}]}]"
 workbench.activityBar.location: top
